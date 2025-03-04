@@ -96,6 +96,11 @@ if __name__ == "__main__":
     print(f"Jenis pengiriman    : {jenis_pengiriman.capitalize()}")
     print(f"Status Member       : {'Ya' if is_member else 'Tidak'}")
     print(f"Total Biaya Pengiriman: Rp {biaya:,.0f}")
+
+print("="*64)
+print("NAMA : SHEILA ANTICA OKTAVIANI".center(64))
+print(f'NIM : {312410002}'.center(64))
+print("="*64)
 ```
 ## Output
 ```Python
@@ -111,6 +116,10 @@ Jarak pengiriman    : 20.0 km
 Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
+================================================================
+                 NAMA : SHEILA ANTICA OKTAVIANI
+                        NIM : 312410002
+================================================================
 PS C:\Users\Sheila Antica\Documents\Tugas Logika Informatika sheila> 
 ```
 ## Penjelasan 
