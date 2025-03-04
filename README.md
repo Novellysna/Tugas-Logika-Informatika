@@ -103,7 +103,7 @@ print(f'NIM : {312410002}'.center(64))
 print("="*64)
 ```
 ## Output
-```Python
+```markdown
 === Program Perhitungan Biaya Pengiriman ===
 Masukkan berat paket (kg): 20
 Masukkan jarak pengiriman (km): 20
