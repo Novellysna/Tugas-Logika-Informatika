@@ -3,7 +3,7 @@
 ## NAMA : SHEILA ANTICA OKTAVIANI
 ## KELAS : TI.24.A1
 ## NIM : 312410002
-# input dan output dari Praktikum 6
+# input dan output Logika Informatika Pertemuan 2
 ## Input
 ```Python
 def hitung_biaya_pengiriman(berat, jarak, jenis_pengiriman, is_member):
