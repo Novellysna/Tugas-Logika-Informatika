@@ -155,6 +155,12 @@ Case-Insensitive Input: Menggunakan .lower() untuk membuat input jenis pengirima
 F-String: Menggunakan f-string untuk memformat output dengan lebih mudah.
 Pemisah Ribuan: Menggunakan :, .0f untuk memformat biaya pengiriman dengan pemisah ribuan. Menampilkan hasil perhitungan
 Rincian biaya ditampilkan dengan format rapi. Biaya diformat menggunakan {biaya:,.0f} untuk memisahkan ribuan dengan koma
+Mencetak karakter "=" sebanyak 64 kali sebagai garis pembatas atas.
+Mencetak teks "NAMA : SHEILA ANTICA OKTAVIANI", lalu menggunakan .center(64) agar teks tersebut diratakan ke tengah dalam ruang sepanjang 64 karakter.
+f'NIM : {312410002}' adalah f-string yang akan menghasilkan teks "NIM : 312410002".
+Kemudian, .center(64) digunakan untuk meratakan teks tersebut ke tengah dalam 64 karakter. Mencetak kembali karakter "=" sebanyak 64 kali sebagai garis pembatas bawah.
+
+
 ## Cara Kerja Program
 Program memulai dengan meminta input dari pengguna untuk berat paket, jarak pengiriman, jenis pengiriman, dan status keanggotaan.
 Setiap input divalidasi untuk memastikan data yang dimasukkan sesuai dengan yang diharapkan (misalnya, angka positif untuk berat dan jarak, pilihan yang valid untuk jenis pengiriman dan status keanggotaan).
