@@ -1,8 +1,8 @@
 # Tugas-Logika-Informatika
 # DATA DIRI
-## NAMA : SHEILA ANTICA OKTAVIANI
+## NAMA : NOVELLYSNA NURZISKA
 ## KELAS : TI.24.A1
-## NIM : 312410002
+## NIM : 312410131
 # input dan output Logika Informatika Pertemuan 2
 ## Input
 ```Python
@@ -98,7 +98,7 @@ if __name__ == "__main__":
     print(f"Total Biaya Pengiriman: Rp {biaya:,.0f}")
 
 print("="*64)
-print("NAMA : SHEILA ANTICA OKTAVIANI".center(64))
+print("NAMA : NOVELLYSNA NURZISKA".center(64))
 print(f'NIM : {312410002}'.center(64))
 print("="*64)
 ```
@@ -117,10 +117,10 @@ Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
 ================================================================
-                 NAMA : SHEILA ANTICA OKTAVIANI
-                        NIM : 312410002
+                 NAMA : NOVELLYSNA NURZISKA
+                        NIM : 312410131
 ================================================================
-PS C:\Users\Sheila Antica\Documents\Tugas Logika Informatika sheila> 
+PS C:\Users\Novellysna Nurziska\Documents\Tugas Logika Informatika novell> 
 ```
 ## Penjelasan 
 Fungsi hitung_biaya_pengiriman(berat, jarak, jenis_pengiriman, is_member)
@@ -156,8 +156,8 @@ F-String: Menggunakan f-string untuk memformat output dengan lebih mudah.
 Pemisah Ribuan: Menggunakan :, .0f untuk memformat biaya pengiriman dengan pemisah ribuan. Menampilkan hasil perhitungan
 Rincian biaya ditampilkan dengan format rapi. Biaya diformat menggunakan {biaya:,.0f} untuk memisahkan ribuan dengan koma
 Mencetak karakter "=" sebanyak 64 kali sebagai garis pembatas atas.
-Mencetak teks "NAMA : SHEILA ANTICA OKTAVIANI", lalu menggunakan .center(64) agar teks tersebut diratakan ke tengah dalam ruang sepanjang 64 karakter.
-f'NIM : {312410002}' adalah f-string yang akan menghasilkan teks "NIM : 312410002".
+Mencetak teks "NAMA : NOVELLYSNA NURZISKA", lalu menggunakan .center(64) agar teks tersebut diratakan ke tengah dalam ruang sepanjang 64 karakter.
+f'NIM : {312410131}' adalah f-string yang akan menghasilkan teks "NIM : 312410131".
 Kemudian, .center(64) digunakan untuk meratakan teks tersebut ke tengah dalam 64 karakter. Mencetak kembali karakter "=" sebanyak 64 kali sebagai garis pembatas bawah.
 
 
