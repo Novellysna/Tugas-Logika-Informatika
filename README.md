@@ -1,8 +1,8 @@
 # Tugas-Logika-Informatika
 # DATA DIRI
-## NAMA : SHEILA ANTICA OKTAVIANI
+## NAMA : NOVELLYSNA NURZISKA
 ## KELAS : TI.24.A1
-## NIM : 312410002
+## NIM : 312410131
 # input dan output Logika Informatika Pertemuan 2
 ## Input
 ```Python
@@ -98,8 +98,8 @@ if __name__ == "__main__":
     print(f"Total Biaya Pengiriman: Rp {biaya:,.0f}")
 
 print("="*64)
-print("NAMA : SHEILA ANTICA OKTAVIANI".center(64))
-print(f'NIM : {312410002}'.center(64))
+print("NAMA : NOVELLYSNA NURZISKA".center(64))
+print(f'NIM : {312410131}'.center(64))
 print("="*64)
 ```
 ## Output
@@ -117,10 +117,10 @@ Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
 ================================================================
-                 NAMA : SHEILA ANTICA OKTAVIANI
-                        NIM : 312410002
+                 NAMA : NOVELLYSNA NURZISKA
+                        NIM : 312410131
 ================================================================
-PS C:\Users\Sheila Antica\Documents\Tugas Logika Informatika sheila> 
+PS C:\Users\Novellysna Nurziska\Documents\Tugas Logika Informatika sheila> 
 ```
 ## Penjelasan 
 Fungsi hitung_biaya_pengiriman(berat, jarak, jenis_pengiriman, is_member)
